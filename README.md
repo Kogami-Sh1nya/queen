@@ -1,1 +1,1 @@
-https://ВАШ_ЛОГИН.github.io/src/index.html
+https://Kogami-Sh1nya.github.io/src/index.html
