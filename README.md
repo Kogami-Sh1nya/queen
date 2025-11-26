@@ -1,1 +1,1 @@
-https://Kogami-Sh1nya.github.io/src/index.html
+https://kogami-sh1nya.github.io/queen/src/index.html
