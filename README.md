@@ -1,1 +1,1 @@
-/src/index.html
+https://ВАШ_ЛОГИН.github.io/src/index.html
